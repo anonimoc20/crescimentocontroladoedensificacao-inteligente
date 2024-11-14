@@ -1,0 +1,50 @@
+p{
+    position: absolute;
+    left: 500px;
+    height: 150px;
+    top: 160px;
+    width: 900px;
+}
+h1{
+    position: absolute;
+    left: 800px;
+}
+h2{
+    position: absolute;
+    left: 500px;
+    top: 70px;
+}
+h3.inteligente{
+    position: absolute;
+    left: 500px;
+    top: 650px;
+}
+h3.resumo{
+    position: absolute;
+    left: 500px;
+    top: 120px;
+}
+h3.cidades{
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+h3.conclusao{
+    position: absolute;
+    left: 500px;
+    top: 800px;
+}
+h3.rumo{
+    position: absolute;
+    left: 500px;
+    top: 280px;
+}
+img{
+
+    position: absolute;
+    left: 500px;
+    top: 930px;
+    width: 905px;
+    height: 370px;
+    border-radius: 40px 40px;
+}

@@ -1,0 +1,81 @@
+
+
+p{
+    position: absolute;
+    left: 500px;
+    height: 150px;
+    top: 160px;
+    width: 900px;
+    
+}
+h1{
+    position: absolute;
+    left: 670px;
+    font-size: 54px;
+    top: -20px;
+}
+h2{
+    position: absolute;
+    left: 500px;
+    top: 70px;
+    font-size: 25px;
+    width: 900px;
+}
+h3.resumo{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    top: 130px;
+
+
+}
+h3.rumo{
+    position: absolute;
+    left: 500px;
+    top: 280px;
+}
+h3.IncentivosFiscais{
+    position: absolute;
+    left: 500px;
+    top: 380px;
+
+}
+h3.Benefícios{
+    position: absolute;
+    left: 500px;
+    top: 640px;
+}
+h3.Conclusão{
+    position: absolute;
+    left: 500px;
+    top: 1070px;
+}
+h3.Tipos{
+    position: absolute;
+    left: 500px;
+    top: 1240px;
+}
+h2.pt2{
+    position: absolute;
+    left: 500px;
+    top: 1200px;
+}
+h3.desafios{
+    position: absolute;
+    left: 500px;
+    top: 2000px;
+}
+h3.casos{
+    position: absolute;
+    left: 500px;
+    top: 1650px;
+}
+img.img2{
+   
+    position: absolute;
+    left: 500px;
+    top: 2350px;
+    width: 905px;
+    height: 370px;
+    border-radius: 40px 40px;
+}

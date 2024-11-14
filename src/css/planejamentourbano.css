@@ -1,0 +1,59 @@
+p{
+    position: absolute;
+    left: 500px;
+    height: 150px;
+    top: 460px;
+    width: 1000px;
+}
+h1{
+    position: absolute;
+    left: 780px;
+}
+h2{
+    position: absolute;
+    left: 500px;
+    top: 370px;
+}
+h3.resumo{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    top: 420px;
+}
+h3.rumo{
+        position: absolute;
+        left: 500px;
+        top: 580px;
+}
+h3.planejamento{
+        position: absolute;
+        left: 500px;
+        top: 692px;
+}
+h3.Conclusao{
+    position: absolute;
+    left: 500px;
+    top: 940px;
+}
+h3.Observacoes{
+    position: absolute;
+    left: 500px;
+    top: 1020px;
+}
+img{
+
+    position: absolute;
+    left: 580px;
+    top: 70px;
+    width: 715px;
+    height: 317px;
+    border-radius: 40px 40px;
+}
+img.img2{
+    position: absolute;
+    left: 560px;
+    top: 1130px;
+    width: 815px;
+    height: 317px;
+    border-radius: 40px 40px;
+}
