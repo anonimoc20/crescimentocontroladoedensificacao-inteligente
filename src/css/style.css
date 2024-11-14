@@ -1,3 +1,7 @@
+@media (max-width: 768px) {
+  .navbar {
+      flex-direction: column;
+  }}
 html,
 body {
   height: 100%;
@@ -7,6 +11,10 @@ body {
   font-family: "Poppins", "Quicksand", sans-serif;
   transition: background-color 0.2s;
   will-change: background-color;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
 }
 
 .wrapper {

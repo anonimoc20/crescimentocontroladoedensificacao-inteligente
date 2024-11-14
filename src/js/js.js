@@ -1,3 +1,4 @@
+
 (function () {
     'use strict';
   
@@ -254,6 +255,7 @@
   
     };
   
+    
   
     // create slider
     var slider = new Slider();
